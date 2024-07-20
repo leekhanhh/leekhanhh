@@ -5,4 +5,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost my sparetime to listen songs every days.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&show_icons=true)
+![leekhanhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekhanhh&hide=contribs,prs&show_icons=true)
